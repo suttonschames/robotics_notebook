@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents/BUILDING/Week 12.1.md",
+                "file": "git push.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 12.1"
+              "title": "git push"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git push.md",
+                "file": "Table of Contents/MEET THE TEAM (1)/Chappell Roam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git push"
+              "title": "Chappell Roam"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,40 +183,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7acdace29d54ae",
+  "active": "141b1c9d4d7fb25a",
   "lastOpenFiles": [
-    "Table of Contents/BUILDING/Week 11.1.md",
-    "Table of Contents/BUILDING/Week 10.4.md",
+    "Table of Contents/BUILDING/Building.md",
+    "Table of Contents/MEET THE TEAM (1)/Chappell Roam.md",
+    "Table of Contents/MEET THE TEAM (1)/Sutton.md",
+    "Table of Contents/MEET THE TEAM (1)/Stepan.md",
+    "Table of Contents/BUILDING/Week 12.5.md",
+    "Table of Contents/BUILDING/Week 9.5.md",
+    "Table of Contents/BUILDING/Week 10.1.md",
+    "Table of Contents/BUILDING/Week 10.2.md",
     "Table of Contents/BUILDING/Week 10.3.md",
+    "Table of Contents/BUILDING/Week 10.4.md",
+    "Table of Contents/BUILDING/Week 11.1.md",
     "Table of Contents/BUILDING/Week 11.2.md",
     "Table of Contents/BUILDING/Week 11.3.md",
     "Table of Contents/BUILDING/Week 11.4.md",
     "Table of Contents/BUILDING/Week 12.1.md",
     "Table of Contents/BUILDING/Week 12.2.md",
-    "Table of Contents/BUILDING/Week 12.3.md",
     "Table of Contents/BUILDING/Week 12.4.md",
-    "Table of Contents/BUILDING/Week 12.5.md",
+    "Table of Contents/BUILDING/Week 9.1.md",
+    "Table of Contents.md",
+    "Table of Contents/RESEARCH/Odometry.md",
+    "Untitled.md",
+    "git push.md",
+    "Table of Contents/BUILDING/Week 12.3.md",
     "Table of Contents/BUILDING/Week 9.4.md",
     "Table of Contents/BUILDING/Week 9.2.md",
-    "Table of Contents/BUILDING/Week 9.1.md",
     "Untitled",
-    "Table of Contents/MEET THE TEAM (1)/Sutton.md",
     "Pasted image 20250519222920.png",
     "Pasted image 20250519223320.png",
     "Initial Intake.pdf",
     "Initial Drivetrain.pdf",
     "Initial De-Scoring Mech.pdf",
-    "git push.md",
-    "Table of Contents/RESEARCH/Odometry.md",
     "Table of Contents/RESEARCH/Research.md",
-    "Table of Contents/RESEARCH/Intake.md",
-    "Table of Contents/PLANNING/Planning.md",
-    "Table of Contents/NOTES/Initial Planning/Initial De-Scoring Mech.md",
-    "Table of Contents/NOTES/Initial Planning/Initial Build Ideas.md",
-    "Table of Contents/MEET THE TEAM (1)/Stepan.md",
-    "Table of Contents/MEET THE TEAM (1)/Meet the Team.md",
-    "Table of Contents/MEET THE TEAM (1)/Jarvis.md",
-    "Table of Contents/BUILDING/Building.md",
     "Week 9.1.pdf",
     "Week 9.5.pdf",
     "Week 10.1.pdf",
