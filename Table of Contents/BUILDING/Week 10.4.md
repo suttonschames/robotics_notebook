@@ -9,7 +9,7 @@ With our chassis stabilized and drive behavior improved, this week we shifted fo
 
 - We mounted a preliminary hopper/feeder above the intake that aligns blocks to feed into our scoring mechanism. During testing we had frequent jams when two blocks tried to feed simultaneously, so we added a guide and supporting stand offs to ensure blocks filter in one by one.
 
-- On the scoring end, since the goals are “long goals” and “center goals” on the field (per game manual) we adopted a rolling output with a polycarb hood for aim. Testing in September confirmed that this material was out best choice.
+- On the scoring end, since the goals are “long goals” and “center goals” on the field (per game manual) we adopted a rolling output with a polycarb hood for aim. Testing in September confirmed that this material was our best choice.
 
 - We also adjusted the robot’s center of gravity by moving the pneumatics tank slightly forward so the robot doesn’t tilt backward under intake load.
 
@@ -23,7 +23,6 @@ With our chassis stabilized and drive behavior improved, this week we shifted fo
 - What went well: Our intake/hopper setup is performing much better. Blocks are being captured with ~90% reliability and our scoring flipper is consistent in practice.
 
 - In driver practice I also placed emphasis on **parking** the robot in our park zone at the end of the match—important in Push Back for bonus parking points.
-
 
 - What still needs work: The autonomous scoring routine is incomplete. I am concerned about accuracy as well, as we still lose blocks when feeding and sometimes fail to flip correctly. Also the driver stage transitions (intake → drive to goal → scoring → reposition) are still slow and need tightening.
 
